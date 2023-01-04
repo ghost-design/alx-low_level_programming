@@ -25,6 +25,7 @@ i = (row * size) - row;
 diagonal_sum_2 += a[i];
 }
 
-printf("%d, %d\n", diagonal_sum_1, diagonal_sum_2);
+printf("%d, %d
+", diagonal_sum_1, diagonal_sum_2);
 
-} 
+}
